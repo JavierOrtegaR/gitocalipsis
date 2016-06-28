@@ -4,6 +4,9 @@ Un dia como este no podía empezar de otra manera... tras semanas trabajando en t
 5
 4
 3
+
+Push la rama al servidor remoto.
+
 2
 1
 BOOOOOOOOOM!!!!
