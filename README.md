@@ -10,3 +10,5 @@ Push la rama al servidor remoto.
 2
 1
 BOOOOOOOOOM!!!!
+
+Clono el remoto en un nuevo repositorio local
